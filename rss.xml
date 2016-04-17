@@ -4,14 +4,14 @@
         <description><![CDATA[Fundación CoMunidad]]></description>
         <link>http://fundcomunidad.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 15:34:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2016 18:35:43 GMT</lastBuildDate>
         <atom:link href="http://fundcomunidad.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Prueba</p>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ceb00195-a93c-4301-b296-e650e9d6129f.jpg">]]></description>
             <link>http://fundcomunidad.org/3714500c-d826-4383-bd54-8abe208cceb0/index.html</link>
             <guid isPermaLink="false">3714500c-d826-4383-bd54-8abe208cceb0</guid>
-            <pubDate>Sun, 17 Apr 2016 15:34:05 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 18:35:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
