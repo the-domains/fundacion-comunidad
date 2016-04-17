@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Proyectos
-datePublished: '2016-04-17T22:44:20.274Z'
-dateModified: '2016-04-17T22:43:25.572Z'
+datePublished: '2016-04-17T22:49:25.772Z'
+dateModified: '2016-04-17T22:46:07.141Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-17-proyectos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-proyectos.md
-published: true
 url: proyectos/index.html
-_type: Article
+_type: Blurb
 
 ---
 **_[Proyectos][0]_**
