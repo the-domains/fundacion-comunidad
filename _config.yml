@@ -1,0 +1,28 @@
+name: Fundación CoMunidad
+favicon: null
+layout_spectrum: 0.8430604462046176
+typography_spectrum: 0.2835879123304039
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2621818305924535
+  lightness: 0.12057433882728219
+  saturation: 0.7633912328165025
+  rhythmicContrast: 0.8098686449229717
+purpose: []
