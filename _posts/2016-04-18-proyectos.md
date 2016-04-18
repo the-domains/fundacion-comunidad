@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Proyectos
-datePublished: '2016-04-18T21:32:53.100Z'
-dateModified: '2016-04-18T21:31:51.700Z'
+datePublished: '2016-04-18T21:43:37.296Z'
+dateModified: '2016-04-18T21:42:50.613Z'
 title: ''
 author: []
 authors: []
@@ -24,10 +24,18 @@ _type: WebPage
 ---
 Proyectos
 
-**Educación para el Desarrollo Sostenible EDS / Talleres sobre Tecnologías de Información y Comunicación / Urbanos**.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcaa110a-36f2-4a6e-b539-c30a30e6e954.jpg)
+**Educación para el Desarrollo Sostenible EDS / Centro de Acceso a las Tecnologías / Urbanos**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c211ef75-d366-4257-b784-7275020f2d86.jpg)
 
-Este proyecto se trabaja con jóvenes de tres municipios: Chorrera, Arraiján y San Miguelito, donde se capacitan en producción de radio, producción de televisión y radios en línea, con esto se empoderan así mismo la posibilidad de generar nuevos emprendimientos que les permitan contar con mayores y mejores oportunidad de laborales. Esta visión de la educación es para desarrollo de los conocimientos y habilidades, así como cambios en los valores, comportamientos y estilos de vida.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/aed99f5c-274c-49c6-8d01-3f69b78d6ce0.jpg)
+El municipio de San Miguelito, nace como un asentamiento humano donde sus primeros pobladores fueron familias que emigraron desde la península de Azuero y del archipiélago de las perlas, llegaron de otros sitios del Panamá, buscando un lugar donde establecerse y viviendas que estuviera cerca de los trabajos en la ciudad de panamá.
 
-Un paso esencial en el camino hacia la educación de los ciudadanos a reconocer los problemas que enfrenta el mundo actual, así como las oportunidades para la innovación y el progreso,dándoles el poder de actuar con responsabilidad hacia el futuro. Las Tecnologías de Información y Comunicación son herramientas importantes para alcanzar un mayor número de alumnos, así como facilitar nuevos formas de aprendizaje y la comprensión que se requiere para implementar las soluciones complejas necesarias. La aceptación de los métodos pedagógicos innovadores abre nuevas posibilidades y grande retos para la Educación para el Desarrollo Sostenible.
+San Miguelito, es el municipio más joven y más pequeño de
+Panamá, pero a la vez es uno de los más poblados del país, superior a los
+300,000 habitantes donde se estima que viven más 6,000 personas por kilómetro
+cuadrado.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c42fdff5-6f2a-469f-a865-ed0bdeccf213.png)
+
+El proyecto del Centro de Acceso a las tecnologías tiene como objetivo, generar un espaciolocal de formación y enseñanzaen medio del crecimiento urbano y la desigualdad social una infraestructura para el mejoramiento de la educación en aéreas prioritarios a la cultura, la ciencia y el uso de tecnología de información abierta para todo los habitantes del municipio de San Miguelito, dentro de sus facilidades disponibles ofrece:
+
+Computadoras | Salón de conferencias | Cocina | Baños |Servicios de fotocopiado
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf3f0aaf-9d06-4a7f-84ef-891f4d436c5f.jpg)
