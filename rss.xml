@@ -4,8 +4,15 @@
         <description><![CDATA[Fundación CoMunidad]]></description>
         <link>http://fundcomunidad.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2016 21:12:41 GMT</lastBuildDate>
         <atom:link href="http://fundcomunidad.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Proyectos</p>]]></description>
+            <link>http://fundcomunidad.org/proyectos/index.html</link>
+            <guid isPermaLink="false">b5768881-a802-4df1-a5ad-8d396a6d13c2</guid>
+            <pubDate>Mon, 18 Apr 2016 21:12:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Proyectos</p>]]></description>
