@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'Proyectos '
-datePublished: '2016-04-18T20:48:05.915Z'
-dateModified: '2016-04-18T20:45:28.866Z'
+description: Proyectos
+datePublished: '2016-04-18T21:00:25.116Z'
+dateModified: '2016-04-18T20:58:25.624Z'
 title: ''
 author: []
 authors: []
@@ -22,20 +22,14 @@ url: proyectos/index.html
 _type: Article
 
 ---
-**Proyectos **
+Proyectos
 
-**Edu -- Change**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9054e5ee-445d-4f16-a0dd-caf6451280bb.jpg)
+**Corto- Documental: "La Gota Más Importante "**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3cbd62-624a-456c-8c7a-8e901ec559de.jpg)
 
-Este proyecto está dirigido a tres municipios de Panamá: Arraijan, Chorrera y San Miguelito, localidades ubicadas en periferia de la Ciudad de Panamá, donde hay un crecimiento poblacional, falta de planificación y un incremento en actos de violencia. Esta iniciativa busca capacitar y brindarles herramientas a los jóvenes a través de talleres en diferentes ejes temáticos:
+El mezclar experiencias comunes de personas que viven en Panamá con las perspectivas de expertos que hablan sobre temas que incluyen aumento del nivel del mar, la eficiencia energética y la importancia de votar. Los realizadores muestran cómo todos tenemos la capacidad de realizar cambios en nuestra vida diaria para combatir el cambio climático.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b03534-21e4-43df-abe9-c2f7d73b561b.jpg)
 
-Emprendimiento
-
-Formación del Idioma Ingles
-
-Talleres de Audiovisuales
-
-Talleres de Arte, Hip Hop y Teatro
-
-Talleres de Radio  
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/056d1116-2d84-406b-b3ad-2b3e0b8f5341.jpg)
+El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a7fe73d-c1ac-4006-b5d4-2acb0be42cd1.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c241e38c-e73f-4038-b457-e30485e10c09.png)
