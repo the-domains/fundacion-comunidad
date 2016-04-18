@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Fundación CoMunidad]]></title>
+        <description><![CDATA[Fundación CoMunidad]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Apr 2016 20:35:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fundación CoMunidad]]></title>
+            <description><![CDATA[<article><h1>Fundación CoMunidad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521a7ff9af7c2087f99c04c16644129c94f38be0.jpg"></article>]]></description>
+            <link>undefinedfundacion-comunidad/index.html</link>
+            <guid isPermaLink="false">e0e93efd-093d-45e0-83d6-3b9cedb53264</guid>
+            <pubDate>Mon, 18 Apr 2016 20:35:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
