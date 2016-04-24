@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[Fundación CoMunidad]]></title>
         <description><![CDATA[Fundación CoMunidad]]></description>
-        <link>http://fundcomunidad.org/</link>
+        <link>http://fcomunidad.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Apr 2016 21:51:58 GMT</lastBuildDate>
-        <atom:link href="http://fundcomunidad.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 17:35:04 GMT</lastBuildDate>
+        <atom:link href="http://fcomunidad.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Understanding Mountain Soils: A Contribution from mountain areas to the International Year of Soils 2015]]></title>
             <description><![CDATA[<article><h1>Understanding Mountain Soils: A Contribution from mountain areas to the International Year of Soils 2015</h1><p>Resumen: In every mountain region, soils constitute the foundation for agriculture, supporting essential ecosystem functions and food security. Mountain soils benefit not only the 900 million people living in the world's mountainous areas but also billions more living downstream. Soil is a fragile resource that needs time to regenerate.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2382a0a04729ca2692948eec63363a405c9ebbde.tn"></article>]]></description>
@@ -23,28 +23,21 @@
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Proyectos</p>]]></description>
-            <link>http://fundcomunidad.org/proyectos/index.html</link>
+            <link>http://fcomunidad.org/proyectos/index.html</link>
             <guid isPermaLink="false">b5768881-a802-4df1-a5ad-8d396a6d13c2</guid>
             <pubDate>Mon, 18 Apr 2016 21:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Proyectos</p>]]></description>
-            <link>http://fundcomunidad.org/proyectos/index.html</link>
-            <guid isPermaLink="false">cfeff430-2347-4057-a13e-7e259bc7c349</guid>
-            <pubDate>Mon, 18 Apr 2016 21:00:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Proyectos </p>]]></description>
-            <link>http://fundcomunidad.org/proyectos/index.html</link>
+            <link>http://fcomunidad.org/proyectos/index.html</link>
             <guid isPermaLink="false">7ed9c93a-9851-4e65-8cff-17034b055842</guid>
             <pubDate>Mon, 18 Apr 2016 20:48:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fundación CoMunidad]]></title>
             <description><![CDATA[<article><h1>Fundación CoMunidad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521a7ff9af7c2087f99c04c16644129c94f38be0.jpg"></article>]]></description>
-            <link>http://fundcomunidad.org/fundacion-comunidad/index.html</link>
+            <link>http://fcomunidad.org/fundacion-comunidad/index.html</link>
             <guid isPermaLink="false">e0e93efd-093d-45e0-83d6-3b9cedb53264</guid>
             <pubDate>Mon, 18 Apr 2016 20:35:30 GMT</pubDate>
         </item>
