@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-24T19:50:50.222Z'
-dateModified: '2016-04-24T19:48:41.188Z'
+datePublished: '2016-04-24T19:51:26.451Z'
+dateModified: '2016-04-24T19:47:43.602Z'
 title: ''
 author: []
 authors: []
@@ -24,15 +24,13 @@ _type: WebPage
 ---
 **Artículos**
 
-Las Mujeres y su Rol en la gestión del Desarrollo Sustentable en Poblaciones Rurales, Marcelina Noriega, Una Historia de Éxito
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d734c64b-bc76-4c42-a2f9-945722fb23f4.jpg)
+4th Global Meeting of Mountain Partnership
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67748bd1-fcf0-4430-8e51-c3314013ffa8.jpg)
 
-La Sra.Marcelina Noriega, reside de la provincia de Darién, tiene seis hijos, 3 mujeres y 3 varones, es un ejemplo de que la capacitación y formación son vitales para mejorar la calidad de vida de las personas en poblaciones rurales. La Sra. Marcelina quien recientemente fue distinguida por Instituto Nacional de la Mujer de Panamá, en el marco del foro "Empoderamiento Económico y Liderazgo de las Mujeres Rurales", por su trabajo ambientalmente responsable con el cual le da el sustento a su familia.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/636c7a1d-601b-46f3-81e0-4e4d54e7a504.jpg)
+La Fundación CoMunidad, participo en la reunión que se desarrolló en Erzurum, Turquía los días 17, 18 y 19 Octubre de 2013, la agenda de trabajo fue la nuevo Estrategia de Alianza para las Montañas y Gobernanza; montañas en Río +20 y el Desarrollo Sostenible Post- 2015 Objetivos (ODS), la Plataforma de Conocimiento del Foro de Montañas para desarrollo sostenible de las montañas, la coordinación regional de mecanismos, y la selección del Comité de Dirección. Grupos de trabajo temáticos para la planificación y la gestión de Mountain Partnership. Reuniones regionales paralelas, presentaciones en la Feria y eventos paralelos también se llevó a cabo La reunión congregó a aproximadamente cien participantes en representación de, entre otras cosas, los gobiernos, el mundo académico, instituciones de investigación, las organizaciones intergubernamentales y la sociedad civil.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb94f0f-c113-4d0c-abde-b95573636d0a.jpg)
 
-En el caso de la Sra. Marcelinaha estado utilizando recursos naturales a su alcance (árboles y plantas),transformándolos en productos terminados para generar ingresos económicos. Ella forma parte de un grupo en Santa Fe, Darién que se dedica a producir jabones,cremas yte secos. Este grupo cuenta con una variedad con nueves especies de planta para elabora jabones, tres clases de cremas y seis tipos de té secos. El proceso para este emprendimiento inicia con el cultivo de las plantas y los árboles,utilizando métodos de agricultura orgánicos y conocimientos tradicionales,en el grupo al que pertenece la Sra. Marcelina la prioridad es de integrar mujeres de la región de Darién, en este tipo de actividades productivas.
+La aprobación de la nueva Estrategia de Mountain Partnership y Gobernanza, la selección de los miembros del Comité Directivo fueron recibidas como una oportunidad para reorientar la colaboración entre la alianza, mejorar sus actividades y programas. Sin embargo, muchos representantes se refirieron a la labor futura la obligación de pedirle la importancia de las montañas consideradas en un contexto internacional más amplio.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc938b6-e0c9-476b-a6fc-4ea5044c54a1.jpg)
 
-Marcelina Noriega está al frente de su hogar y cultiva la tierra,apoya otros grupos en Darién, en temas de maltrato hacia la mujer y la juventud.En febrero de 2012, participo en una actividad del Día Internacional de La Mujer,en la sede de la Naciones Unidas en New York, en donde tuvo la oportunidad de compartir experiencias con mujeres de otras partes del mundo y pudo dar a conocer la realidad que viven en Darién y el trabajo que llevan a cabo.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e146b498-67b6-4595-a701-07f4414c21bc.jpg)
-
-Marcelina mencionó que hay muchas mujeres con mucha capacidad para desarrollar emprendimientos,pero que en algunos momentos dudan por lo que la demás personas podrían pensar de ellas. Ejemplos como el de la Sra. Marcelina son dignos de resaltar, para que otros puedan apoyar este tipo de iniciativa y les den entusiasmo a las personas de los asentamientos rurales para que puedan desarrollar un medio de vida sostenible y mejorar la calidad de vida para sus familias.
+Los participantes, hacen hincapié en nuestra voluntad de trabajar en conjunto para cumplir con su visión para conservar los ambientes de montaña, y mejorar los medios de vida de las poblaciones de montaña y al mismo tiempo empoderando a sus habitantes. En un esfuerzo por mantener a futuro, de carácter inclusivo, participativo y dinámico de la Asociación, nosotros, los participantes, expresamos nuestra intención de seguir promoviendo el desarrollo sostenible de las montañas.
