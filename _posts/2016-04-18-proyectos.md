@@ -3,11 +3,10 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Proyectos
-datePublished: '2016-04-24T17:35:00.425Z'
-dateModified: '2016-04-18T21:19:53.457Z'
+datePublished: '2016-04-25T22:52:01.347Z'
+dateModified: '2016-04-25T22:51:13.160Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: proyectos/index.html
 _type: WebPage
 
@@ -31,5 +31,4 @@ El mezclar experiencias comunes de personas que viven en Panamá con las perspec
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b03534-21e4-43df-abe9-c2f7d73b561b.jpg)
 
 El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a7fe73d-c1ac-4006-b5d4-2acb0be42cd1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c241e38c-e73f-4038-b457-e30485e10c09.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/427e50fc-10b2-4566-8693-716c3a40b134.jpg)
