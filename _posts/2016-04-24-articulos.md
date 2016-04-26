@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-26T19:06:04.744Z'
-dateModified: '2016-04-26T19:05:49.359Z'
+datePublished: '2016-04-26T19:12:38.981Z'
+dateModified: '2016-04-26T19:12:03.866Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
@@ -25,7 +25,7 @@ _type: WebPage
 **Artículos**
 
 Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/42f018ce-9be8-4626-a7c0-acd3747cc2fc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8393c26-32a1-40f9-8355-d2093b422d36.jpg)
 
 El Director de la Fundación CoMunidad, Alberto Pascual Quiroz se une a la red de promotores en la región de las Américas de la Campaña Mundial Desarrollando Ciudades Resilientes: Mi Ciudad se está Preparando!que lleva adelante la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres UNISDR.
 
