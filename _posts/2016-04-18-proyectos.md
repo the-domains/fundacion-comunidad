@@ -1,13 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Proyectos
-datePublished: '2016-04-26T19:25:29.652Z'
-dateModified: '2016-04-18T21:19:41.994Z'
+datePublished: '2016-04-26T19:35:32.855Z'
+dateModified: '2016-04-26T19:35:16.424Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -18,19 +17,18 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: proyectos/index.html
-_type: Article
+_type: WebPage
 
 ---
 Proyectos
 
-**Aprovechamiento para el uso del bambú / Rural**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/356b2a8d-3c65-42f6-a54c-6bc6eac79673.jpg)
+**Corto- Documental: "La Gota Más Importante "**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3cbd62-624a-456c-8c7a-8e901ec559de.jpg)
 
-La población de Santa Fé es uno de los lugares más poblados dentro de la provincia de Darién, donde el hombre ha ejercido una gran presión sobre los recurso naturales donde es una prioritario generar una alternativa de los bosques o las maderas tropicales.
+El mezclar experiencias comunes de personas que viven en Panamá con las perspectivas de expertos que hablan sobre temas que incluyen aumento del nivel del mar, la eficiencia energética y la importancia de votar. Los realizadores muestran cómo todos tenemos la capacidad de realizar cambios en nuestra vida diaria para combatir el cambio climático.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/14b03534-21e4-43df-abe9-c2f7d73b561b.jpg)
 
-Las características en la selección de una especie de bambú que cuente con los requerimientos deproveer bienes y servicios para garantizan parte de las grandes necesidades de vivienda yproductos industriales, así como de otros usos agropecuarios y artesanales.Nos brindan servicios para la recuperación de suelos, evitar la erosión y, es un recursos renovable con gran capacidad de regeneración, son un eje fundamentalcomo barrera naturales para evitar las inundaciones o prevenir deslizamientos de tierra en orillas de ríos.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd36db0d-ad47-45f3-9e9a-d1506a52081b.jpg)
-
-Santa Fe, Darién es el territorio donde gestiona este proyecto por contar con elementos esenciales como la integración de grupos locales organizados,la necesidad de la asociatividad con otras iniciativas y generen nuevas economías verdes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/65dbf773-9795-4b17-97ec-779a50edde5c.jpg)
+El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca426e29-c66d-4d17-bcef-8467404f56d9.jpg)
