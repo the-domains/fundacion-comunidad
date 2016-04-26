@@ -2,24 +2,24 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-24T16:40:21.268Z'
-dateModified: '2016-04-24T16:40:06.283Z'
+description: Fundación CoMunidad
+datePublished: '2016-04-26T08:56:31.886Z'
+dateModified: '2016-04-26T08:56:06.256Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-24-fundacion-comunidad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-sourcePath: _posts/2016-04-24-fundacion-comunidad.md
-published: true
+starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/93b365db-a55a-43fd-941d-459dc905de37.jpg)
+**Fundación CoMunidad**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11176dd8-2375-47b2-874d-5929a21a750f.jpg)
