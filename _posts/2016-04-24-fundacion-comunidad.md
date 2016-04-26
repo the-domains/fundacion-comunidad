@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Fundación CoMunidad
-datePublished: '2016-04-26T08:56:31.886Z'
-dateModified: '2016-04-26T08:56:06.256Z'
+datePublished: '2016-04-26T20:50:29.707Z'
+dateModified: '2016-04-26T20:50:02.329Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-fundacion-comunidad.md
@@ -22,4 +22,4 @@ _type: Blurb
 
 ---
 **Fundación CoMunidad**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/11176dd8-2375-47b2-874d-5929a21a750f.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c569a69d-a524-4336-ad62-b8b8a653de8f.png)
