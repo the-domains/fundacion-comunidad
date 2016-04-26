@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Contactos
-datePublished: '2016-04-26T09:24:47.275Z'
-dateModified: '2016-04-26T09:24:16.369Z'
+datePublished: '2016-04-26T09:57:47.773Z'
+dateModified: '2016-04-26T09:57:28.783Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-contactos.md
@@ -33,7 +33,7 @@ _type: WebPage
 **Facebook:**
 
 [https://www.facebook.com/FundacionCoMunidad/][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b453fcf-730a-43a4-9f9d-767c7931b5e6.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8358ec3-0c1e-46b9-bd00-b033361dd21c.jpg)
 
 [0]: f.comunidad@mail.com
 [1]: https://www.facebook.com/FundacionCoMunidad/
