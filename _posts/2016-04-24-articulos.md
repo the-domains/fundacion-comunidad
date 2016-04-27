@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-27T18:34:27.013Z'
-dateModified: '2016-04-27T18:34:17.271Z'
-title: ''
+datePublished: '2016-04-27T18:38:35.499Z'
+dateModified: '2016-04-27T18:38:21.961Z'
+title: 'Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!'
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
 published: true
@@ -24,13 +24,12 @@ _type: WebPage
 ---
 **Artículos**
 
-## 4th Global Meeting of Mountain Partnership
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67748bd1-fcf0-4430-8e51-c3314013ffa8.jpg)
+## Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eebe1bf-8544-494a-97c4-489321fadf2e.jpg)
 
-La Fundación CoMunidad, participo en la reunión que se desarrolló en Erzurum, Turquía los días 17, 18 y 19 Octubre de 2013, la agenda de trabajo fue la nuevo Estrategia de Alianza para las Montañas y Gobernanza; montañas en Río +20 y el Desarrollo Sostenible Post- 2015 Objetivos (ODS), la Plataforma de Conocimiento del Foro de Montañas para desarrollo sostenible de las montañas, la coordinación regional de mecanismos, y la selección del Comité de Dirección. Grupos de trabajo temáticos para la planificación y la gestión de Mountain Partnership. Reuniones regionales paralelas, presentaciones en la Feria y eventos paralelos también se llevó a cabo La reunión congregó a aproximadamente cien participantes en representación de, entre otras cosas, los gobiernos, el mundo académico, instituciones de investigación, las organizaciones intergubernamentales y la sociedad civil.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb94f0f-c113-4d0c-abde-b95573636d0a.jpg)
+  
+El Director de la Fundación CoMunidad, Alberto Pascual Quiroz se une a la red de promotores en la región de las Américas de la Campaña Mundial Desarrollando Ciudades Resilientes: Mi Ciudad se está Preparando!que lleva adelante la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres UNISDR.
 
-La aprobación de la nueva Estrategia de Mountain Partnership y Gobernanza, la selección de los miembros del Comité Directivo fueron recibidas como una oportunidad para reorientar la colaboración entre la alianza, mejorar sus actividades y programas. Sin embargo, muchos representantes se refirieron a la labor futura la obligación de pedirle la importancia de las montañas consideradas en un contexto internacional más amplio.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcc938b6-e0c9-476b-a6fc-4ea5044c54a1.jpg)
+La Campaña Mundial "Desarrollando Ciudades Resilientes: ¡Mi Ciudad se está Preparando!", promovida por la UNISDR desde el 2010, tiene como objetivo conseguir que un mayor número de gobiernos locales y otros sectores clave estén preparados ante desastres, mediante al aumento del compromiso político con la reducción del riesgo de desastres y la adaptación al cambio climático.
 
-Los participantes, hacen hincapié en nuestra voluntad de trabajar en conjunto para cumplir con su visión para conservar los ambientes de montaña, y mejorar los medios de vida de las poblaciones de montaña y al mismo tiempo empoderando a sus habitantes. En un esfuerzo por mantener a futuro, de carácter inclusivo, participativo y dinámico de la Asociación, nosotros, los participantes, expresamos nuestra intención de seguir promoviendo el desarrollo sostenible de las montañas.
+La Campaña abarca una creciente red global de ciudades, provincias y municipios comprometidos, de diversos tamaños, características, perfiles de riesgo y ubicaciones, que pueden ayudar y aprender el uno del otro, fomentar el conocimiento y transmitir conocimiento especializado y destrezas así como apoyo técnico para alcanzar el objetivo de generar resiliencia.
