@@ -5,9 +5,9 @@ inNav: false
 isBasedOnUrl: ''
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-04-27T11:31:58.298Z'
-dateModified: '2016-04-27T11:31:55.589Z'
+description: Fundación CoMunidad
+datePublished: '2016-04-27T11:36:53.704Z'
+dateModified: '2016-04-27T11:36:48.737Z'
 title: ''
 author:
   - name: ''
@@ -24,4 +24,5 @@ starred: true
 _type: Blurb
 
 ---
+**Fundación CoMunidad**
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf7b7a4ce960c42b970727a4857d04f77e913b3.png)
