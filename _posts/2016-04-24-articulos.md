@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-27T23:05:39.415Z'
-dateModified: '2016-04-27T23:05:27.068Z'
+datePublished: '2016-04-27T23:08:16.935Z'
+dateModified: '2016-04-27T23:07:55.525Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
@@ -24,12 +24,16 @@ _type: WebPage
 ---
 **Artículos**
 
-**4th Global Meeting of Mountain Partnership**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67748bd1-fcf0-4430-8e51-c3314013ffa8.jpg)
+**Simposio sobre Economía de Montaña**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab41132-69e2-41d9-99f6-8c13281da4f1.jpg)
 
-La Fundación CoMunidad, participo en la reunión que se desarrolló en Erzurum, Turquía los días 17, 18 y 19 Octubre de 2013, la agenda de trabajo fue la nuevo Estrategia de Alianza para las Montañas y Gobernanza; montañas en Río +20 y el Desarrollo Sostenible Post- 2015 Objetivos (ODS), la Plataforma de Conocimiento del Foro de Montañas para desarrollo sostenible de las montañas, la coordinación regional de mecanismos, y la selección del Comité de Dirección. Grupos de trabajo temáticos para la planificación y la gestión de Mountain Partnership. Reuniones regionales paralelas, presentaciones en la Feria y eventos paralelos también se llevó a cabo La reunión congregó a aproximadamente cien participantes en representación de, entre otras cosas, los gobiernos, el mundo académico, instituciones de investigación, las organizaciones intergubernamentales y la sociedad civil.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5fb94f0f-c113-4d0c-abde-b95573636d0a.jpg)
+La Fundación CoMunidad, participo como expositor en el Simposio Internacional sobre Economía de Montañas, que se desarrolló los días 6, 7 y 8 de Mayo del 2014 en Guiyang, China, esta iniciativa fue organizada por la Universidad Guizhou de Finanzas y Economía (GUFE) y la Alianza para las Montañas, en la que formaron parte profesores, estudiantes e investigadores de economía de todo el mundo,se habló de los componentes sociales, culturales, ambientales y productivo que interrelacionan y conforman el marco del desarrollo sostenible.
 
-La aprobación de la nueva Estrategia de Mountain Partnership y Gobernanza, la selección de los miembros del Comité Directivo fueron recibidas como una oportunidad para reorientar la colaboración entre la alianza, mejorar sus actividades y programas. Sin embargo, muchos representantes se refirieron a la labor futura la obligación de pedirle la importancia de las montañas consideradas en un contexto internacional más amplio.
+Las recomendaciones realizadas para la gestión territorial en regiones de montañas:
 
-Los participantes, hacen hincapié en nuestra voluntad de trabajar en conjunto para cumplir con su visión para conservar los ambientes de montaña, y mejorar los medios de vida de las poblaciones de montaña y al mismo tiempo empoderando a sus habitantes.
+La construcción sobre los conocimientos tradicionales 
+
+Integrar a las autoridades de los gobiernos locales
+
+Involucrar a los asentamientos humanos locales en los procesos de toma de desiciónes
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/300bd676-c522-48b6-b532-5f10e6fe76b7.jpg)
