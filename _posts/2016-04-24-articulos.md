@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-27T20:27:00.234Z'
-dateModified: '2016-04-27T20:26:52.307Z'
+datePublished: '2016-04-27T20:33:54.763Z'
+dateModified: '2016-04-27T20:33:50.495Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
@@ -24,11 +24,34 @@ _type: WebPage
 ---
 **Artículos**
 
-**Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eebe1bf-8544-494a-97c4-489321fadf2e.jpg)
+**Simposio sobre Economía de Montaña**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab41132-69e2-41d9-99f6-8c13281da4f1.jpg)
 
-El Director de la Fundación CoMunidad, Alberto Pascual Quiroz se une a la red de promotores en la región de las Américas de la Campaña Mundial Desarrollando Ciudades Resilientes: Mi Ciudad se está Preparando!que lleva adelante la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres UNISDR.
+La Fundación CoMunidad, participo como expositor en el Simposio Internacional sobre Economía de Montañas, que se desarrolló los días 6, 7 y 8 de Mayo del 2014 en Guiyang, China, esta iniciativa fue organizada por la Universidad Guizhou de Finanzas y Economía (GUFE) y la Alianza para las Montañas, en la que formaron parte profesores, estudiantes e investigadores de economía de todo el mundo,se habló de los componentes sociales, culturales, ambientales y productivo que interrelacionan y conforman el marco del desarrollo sostenible.
 
-La Campaña Mundial "Desarrollando Ciudades Resilientes: ¡Mi Ciudad se está Preparando!", promovida por la UNISDR desde el 2010, tiene como objetivo conseguir que un mayor número de gobiernos locales y otros sectores clave estén preparados ante desastres, mediante al aumento del compromiso político con la reducción del riesgo de desastres y la adaptación al cambio climático.
+Recursos y potencial económico
 
-La Campaña abarca una creciente red global de ciudades, provincias y municipios comprometidos, de diversos tamaños, características, perfiles de riesgo y ubicaciones, que pueden ayudar y aprender el uno del otro, fomentar el conocimiento y transmitir conocimiento especializado y destrezas así como apoyo técnico para alcanzar el objetivo de generar resiliencia.
+Las montañas proveen el 60 a 80 % de agua dulce.
+
+Son claves para las energías renovablesy promover las economías verdes.
+
+Se encuentran el 23 % de los bosques
+
+Biodiverdiad
+
+El escenario para la agricultura familia de pequeños productores
+
+Atractivos turísticos
+
+Pago por servicios ambientales
+
+Cultura y conocimientos tradicionales
+
+Las recomendaciones realizadas para la gestión territorial en regiones de montañas:
+
+La construcción sobre los conocimientos tradicionales 
+
+Integrar a las autoridades de los gobiernos locales
+
+Involucrar a los asentamientos humanos locales en los procesos de toma de desiciónes
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/300bd676-c522-48b6-b532-5f10e6fe76b7.jpg)
