@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-27T18:38:35.499Z'
-dateModified: '2016-04-27T18:38:21.961Z'
-title: 'Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!'
+datePublished: '2016-04-27T18:57:42.683Z'
+dateModified: '2016-04-27T18:56:45.681Z'
+title: Exhibición y Taller sobre Productos de Montaña
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
 published: true
@@ -24,12 +24,12 @@ _type: WebPage
 ---
 **Artículos**
 
-## Campaña Mundial Desarrollando Ciudades Resilientes:¡Mi Ciudad se está Preparando!
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2eebe1bf-8544-494a-97c4-489321fadf2e.jpg)
+## Exhibición y Taller sobre Productos de Montaña
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3cfd889-ea3d-4a72-a478-0a39dda8b9aa.jpg)
 
-  
-El Director de la Fundación CoMunidad, Alberto Pascual Quiroz se une a la red de promotores en la región de las Américas de la Campaña Mundial Desarrollando Ciudades Resilientes: Mi Ciudad se está Preparando!que lleva adelante la Oficina de las Naciones Unidas para la Reducción del Riesgo de Desastres UNISDR.
+Las poblaciones de montaña, que gran parte están conformada por agricultores familiares, basan sus medios de subsistencia en actividades productivas diversificadas. Ellos han desarrollado sistemas únicos, resilientes y sostenible adoptados a sus ambientes locales que favorecen la producción de productos y servicios de montaña. Para respaldar estas actividades, la Secretaria de las Alianza para las Montañas, en conjunto con pequeño productores de montañas de todo el mundo han organizado una exhibición de productos de montaña y un taller para el intercambio de buenas prácticas los días 17, 18 y 19 de Diciembre en Nueva Delhi, India en la que participo Fundación CoMunidad, el marco del proyecto "Montañas y cambio climático" financiado por el Gobierno de Italia.
 
-La Campaña Mundial "Desarrollando Ciudades Resilientes: ¡Mi Ciudad se está Preparando!", promovida por la UNISDR desde el 2010, tiene como objetivo conseguir que un mayor número de gobiernos locales y otros sectores clave estén preparados ante desastres, mediante al aumento del compromiso político con la reducción del riesgo de desastres y la adaptación al cambio climático.
+El aprovechamiento comercial y sostenible de productos y servicios de alta calidad representa una oportunidad importante para los asentamientos humanos de montaña para mejorar sus medios de vida generando empleo e ingresos adicionales. Particularmente, a las mujeres de montaña, que son relegadas a trabajar en las granjas y en los hogares mientras los hombres emigran a las tierras bajas o al extranjero en busca de un mayor salario, pueden aumentar sus ingresos a través del comercio de productos de montaña de calidad.
 
-La Campaña abarca una creciente red global de ciudades, provincias y municipios comprometidos, de diversos tamaños, características, perfiles de riesgo y ubicaciones, que pueden ayudar y aprender el uno del otro, fomentar el conocimiento y transmitir conocimiento especializado y destrezas así como apoyo técnico para alcanzar el objetivo de generar resiliencia.
+La actividad también fue una oportunidad para celebrar en el marco del Día Internacional de la Montaña, cuyo enfoque este año es en la promoción de productos de montaña como una estrategia para impulsar las economías de montaña.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5aa2b3a-6de3-4762-b226-06be0140285a.jpg)
