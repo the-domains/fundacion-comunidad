@@ -4,10 +4,10 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Nos gustaría conocer sus comentarios y sugerencias, por favor póngase en contacto con nosotros:'
-datePublished: '2016-04-27T19:38:48.948Z'
-dateModified: '2016-04-27T18:17:38.647Z'
-title: Contactos
+description: Contactos
+datePublished: '2016-04-27T19:54:49.784Z'
+dateModified: '2016-04-27T19:54:06.321Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-25-contactos.md
 published: true
@@ -22,7 +22,7 @@ url: contactos/index.html
 _type: WebPage
 
 ---
-## Contactos
+**Contactos**
 
 **Nos gustaría conocer sus comentarios y sugerencias, por favor póngase en contacto con nosotros:**
 
