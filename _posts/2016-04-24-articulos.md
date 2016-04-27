@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Artículos
-datePublished: '2016-04-27T18:29:20.372Z'
-dateModified: '2016-04-27T18:29:01.613Z'
-title: Simposio sobre Economía de Montaña
+datePublished: '2016-04-27T18:33:02.884Z'
+dateModified: '2016-04-27T18:32:31.980Z'
+title: Exhibición y Taller sobre Productos de Montaña
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
 published: true
@@ -24,34 +24,12 @@ _type: WebPage
 ---
 **Artículos**
 
-## Simposio sobre Economía de Montaña
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6ab41132-69e2-41d9-99f6-8c13281da4f1.jpg)
+## Exhibición y Taller sobre Productos de Montaña
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3cfd889-ea3d-4a72-a478-0a39dda8b9aa.jpg)
 
-La Fundación CoMunidad, participo como expositor en el Simposio Internacional sobre Economía de Montañas, que se desarrolló los días 6, 7 y 8 de Mayo del 2014 en Guiyang, China, esta iniciativa fue organizada por la Universidad Guizhou de Finanzas y Economía (GUFE) y la Alianza para las Montañas, en la que formaron parte profesores, estudiantes e investigadores de economía de todo el mundo,se habló de los componentes sociales, culturales, ambientales y productivo que interrelacionan y conforman el marco del desarrollo sostenible.
+Las poblaciones de montaña, que gran parte están conformada por agricultores familiares, basan sus medios de subsistencia en actividades productivas diversificadas. Ellos han desarrollado sistemas únicos, resilientes y sostenible adoptados a sus ambientes locales que favorecen la producción de productos y servicios de montaña. Para respaldar estas actividades, la Secretaria de las Alianza para las Montañas, en conjunto con pequeño productores de montañas de todo el mundo han organizado una exhibición de productos de montaña y un taller para el intercambio de buenas prácticas los días 17, 18 y 19 de Diciembre en Nueva Delhi, India en la que participo Fundación CoMunidad, el marco del proyecto "Montañas y cambio climático" financiado por el Gobierno de Italia.
 
-Recursos y potencial económico
+El aprovechamiento comercial y sostenible de productos y servicios de alta calidad representa una oportunidad importante para los asentamientos humanos de montaña para mejorar sus medios de vida generando empleo e ingresos adicionales. Particularmente, a las mujeres de montaña, que son relegadas a trabajar en las granjas y en los hogares mientras los hombres emigran a las tierras bajas o al extranjero en busca de un mayor salario, pueden aumentar sus ingresos a través del comercio de productos de montaña de calidad.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c458441-110f-478b-a378-938a5a2c4f0b.jpg)
 
-Las montañas proveen el 60 a 80 % de agua dulce.
-
-Son claves para las energías renovablesy promover las economías verdes.
-
-Se encuentran el 23 % de los bosques
-
-Biodiverdiad
-
-El escenario para la agricultura familia de pequeños productores
-
-Atractivos turísticos
-
-Pago por servicios ambientales
-
-Cultura y conocimientos tradicionales
-
-Las recomendaciones realizadas para la gestión territorial en regiones de montañas:
-
-La construcción sobre los conocimientos tradicionales 
-
-Integrar a las autoridades de los gobiernos locales
-
-Involucrar a los asentamientos humanos locales en los procesos de toma de desiciónes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/300bd676-c522-48b6-b532-5f10e6fe76b7.jpg)
+La actividad también fue una oportunidad para celebrar en el marco del Día Internacional de la Montaña, cuyo enfoque este año es en la promoción de productos de montaña como una estrategia para impulsar las economías de montaña.
