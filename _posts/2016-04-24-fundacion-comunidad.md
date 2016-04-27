@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T11:28:35.728Z'
-dateModified: '2016-04-27T11:28:20.310Z'
+datePublished: '2016-04-27T11:31:58.298Z'
+dateModified: '2016-04-27T11:31:55.589Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-24-fundacion-comunidad.md
 published: true
 authors: []
@@ -22,4 +24,4 @@ starred: true
 _type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c569a69d-a524-4336-ad62-b8b8a653de8f.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf7b7a4ce960c42b970727a4857d04f77e913b3.png)
