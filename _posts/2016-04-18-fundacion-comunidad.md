@@ -3,27 +3,26 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-18T20:35:30.149Z'
-dateModified: '2016-04-18T20:29:45.863Z'
-title: Fundación CoMunidad
+description: Acerca de Fundación CoMunidad
+datePublished: '2016-04-28T13:49:21.543Z'
+dateModified: '2016-04-28T13:48:59.307Z'
+title: ' '
 author: []
+sourcePath: _posts/2016-04-18-fundacion-comunidad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-18-fundacion-comunidad.md
-published: true
+starred: false
 url: fundacion-comunidad/index.html
 _type: Article
 
 ---
-# Fundación CoMunidad
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/999d47f4-85e4-4626-8025-82bd866943bd.jpg)
+## ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/999d47f4-85e4-4626-8025-82bd866943bd.jpg)
 
 Acerca de Fundación CoMunidad
 
@@ -41,6 +40,4 @@ Trabajar en Panamá, para contribuir al cambio de modelos y patrones de desarrol
 
 Misión:
 
-En el contexto local, el país que ha entrado en un proceso
-de constantes cambios, donde es prioritario emprender acciones que generen una
-nueva cultura basada en la solidaridad.
+En el contexto local, el país que ha entrado en un proceso de constantes cambios, donde es prioritario emprender acciones que generen una nueva cultura basada en la solidaridad.
