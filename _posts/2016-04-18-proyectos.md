@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Proyectos
-datePublished: '2016-04-28T20:53:20.012Z'
-dateModified: '2016-04-28T20:53:10.881Z'
+description: 'Proyectos '
+datePublished: '2016-04-28T20:57:29.654Z'
+dateModified: '2016-04-28T20:48:24.181Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -22,16 +22,20 @@ url: proyectos/index.html
 _type: WebPage
 
 ---
-Proyectos
+**Proyectos **
 
-**Educación para el Desarrollo Sostenible EDS / Centro de Acceso a las Tecnologías / Urbanos**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c211ef75-d366-4257-b784-7275020f2d86.jpg)
+**Edu -- Change**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9054e5ee-445d-4f16-a0dd-caf6451280bb.jpg)
 
-El municipio de San Miguelito, nace como un asentamiento humano donde sus primeros pobladores fueron familias que emigraron desde la península de Azuero y del archipiélago de las perlas, llegaron de otros sitios del Panamá, buscando un lugar donde establecerse y viviendas que estuviera cerca de los trabajos en la ciudad de panamá.
+Este proyecto está dirigido a tres municipios de Panamá: Arraijan, Chorrera y San Miguelito, localidades ubicadas en periferia de la Ciudad de Panamá, donde hay un crecimiento poblacional, falta de planificación y un incremento en actos de violencia. Esta iniciativa busca capacitar y brindarles herramientas a los jóvenes a través de talleres en diferentes ejes temáticos:
 
-San Miguelito, es el municipio más joven y más pequeño de Panamá, pero a la vez es uno de los más poblados del país, superior a los 300,000 habitantes donde se estima que viven más 6,000 personas por kilómetro cuadrado.
+Emprendimiento
 
-El proyecto del Centro de Acceso a las tecnologías tiene como objetivo, generar un espacio local de formación y enseñanza en medio del crecimiento urbano y la desigualdad social una infraestructura para el mejoramiento de la educación en aéreas prioritarios a la cultura, la ciencia y el uso de tecnología de información abierta para todo los habitantes del municipio de San Miguelito, dentro de sus facilidades disponibles ofrece:
+Formación del Idioma Ingles
 
-Computadoras | Salón de conferencias | Cocina | Baños | Servicios de fotocopiado
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d1ccec-55e9-401d-ac7f-76652df0f94d.png)
+Talleres de Audiovisuales
+
+Talleres de Arte, Hip Hop y Teatro
+
+Talleres de Radio
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44fdc405-a2ac-4dab-a7b8-4fabdffecdd1.jpg)
