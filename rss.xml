@@ -4,8 +4,15 @@
         <description><![CDATA[Fundación CoMunidad]]></description>
         <link>http://fcomunidad.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 11:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2016 13:49:25 GMT</lastBuildDate>
         <atom:link href="http://fcomunidad.org/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ ]]></title>
+            <description><![CDATA[<article><h1></h1><p>Acerca de Fundación CoMunidad</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521a7ff9af7c2087f99c04c16644129c94f38be0.jpg"></article>]]></description>
+            <link>http://fcomunidad.org/fundacion-comunidad/index.html</link>
+            <guid isPermaLink="false">e0e93efd-093d-45e0-83d6-3b9cedb53264</guid>
+            <pubDate>Thu, 28 Apr 2016 13:49:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7647ec2-6ef4-49cd-8e2e-7942d9575ebe.jpg" alt="Panam&aacute;" title="">]]></description>
@@ -54,13 +61,6 @@
             <link>http://fcomunidad.org/proyectos/index.html</link>
             <guid isPermaLink="false">7ed9c93a-9851-4e65-8cff-17034b055842</guid>
             <pubDate>Mon, 18 Apr 2016 20:48:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fundación CoMunidad]]></title>
-            <description><![CDATA[<article><h1>Fundación CoMunidad</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/521a7ff9af7c2087f99c04c16644129c94f38be0.jpg"></article>]]></description>
-            <link>http://fcomunidad.org/fundacion-comunidad/index.html</link>
-            <guid isPermaLink="false">e0e93efd-093d-45e0-83d6-3b9cedb53264</guid>
-            <pubDate>Mon, 18 Apr 2016 20:35:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
