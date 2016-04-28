@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Proyectos
-datePublished: '2016-04-28T18:07:27.812Z'
-dateModified: '2016-04-28T18:07:18.559Z'
+datePublished: '2016-04-28T18:15:15.313Z'
+dateModified: '2016-04-28T18:14:41.135Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -19,15 +19,19 @@ publisher:
   favicon: null
 starred: false
 url: proyectos/index.html
-_type: Article
+_type: WebPage
 
 ---
 Proyectos
 
-**Aprovechamiento para el uso del bambú / Rural**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/356b2a8d-3c65-42f6-a54c-6bc6eac79673.jpg)
+**Educación para el Desarrollo Sostenible EDS / Centro de Acceso a las Tecnologías / Urbanos**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c211ef75-d366-4257-b784-7275020f2d86.jpg)
 
-La población de Santa Fé es uno de los lugares más poblados dentro de la provincia de Darién, donde el hombre ha ejercido una gran presión sobre los recurso naturales donde es una prioritario generar una alternativa de los bosques o las maderas tropicales.
+El municipio de San Miguelito, nace como un asentamiento humano donde sus primeros pobladores fueron familias que emigraron desde la península de Azuero y del archipiélago de las perlas, llegaron de otros sitios del Panamá, buscando un lugar donde establecerse y viviendas que estuviera cerca de los trabajos en la ciudad de panamá.
 
-Las características en la selección de una especie de bambú que cuente con los requerimientos de proveer bienes y servicios para garantizan parte de las grandes necesidades de vivienda y productos industriales, así como de otros usos agropecuarios y artesanales.Nos brindan servicios para la recuperación de suelos, evitar la erosión y, es un recursos renovable con gran capacidad de regeneración, son un eje fundamental como barrera naturales para evitar las inundaciones o prevenir deslizamientos de tierra en orillas de ríos.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd36db0d-ad47-45f3-9e9a-d1506a52081b.jpg)
+San Miguelito, es el municipio más joven y más pequeño de Panamá, pero a la vez es uno de los más poblados del país, superior a los 300,000 habitantes donde se estima que viven más 6,000 personas por kilómetro cuadrado.
+
+El proyecto del Centro de Acceso a las tecnologías tiene como objetivo, generar un espaciolocal de formación y enseñanzaen medio del crecimiento urbano y la desigualdad social una infraestructura para el mejoramiento de la educación en aéreas prioritarios a la cultura, la ciencia y el uso de tecnología de información abierta para todo los habitantes del municipio de San Miguelito, dentro de sus facilidades disponibles ofrece:
+
+Computadoras | Salón de conferencias | Cocina | Baños | Servicios de fotocopiado
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d1ccec-55e9-401d-ac7f-76652df0f94d.png)
