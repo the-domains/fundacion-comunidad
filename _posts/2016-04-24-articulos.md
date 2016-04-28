@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: Artículos
-datePublished: '2016-04-27T23:11:30.010Z'
-dateModified: '2016-04-27T23:11:29.754Z'
+description: 'La Sra.Marcelina Noriega, reside de la provincia de Darién, tiene seis hijos, 3 mujeres y 3 varones, es un ejemplo de que la capacitación y formación son vitales para mejorar la calidad de vida de las personas en poblaciones rurales. La Sra. Marcelina quien recientemente fue distinguida por Instituto Nacional de la Mujer de Panamá, en el marco del foro “Empoderamiento Económico y Liderazgo de las Mujeres Rurales”, por su trabajo ambientalmente responsable con el cual le da el sustento a su familia.'
+datePublished: '2016-04-28T13:00:48.492Z'
+dateModified: '2016-04-28T13:00:44.923Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
@@ -22,14 +22,14 @@ url: articulos/index.html
 _type: WebPage
 
 ---
-**Artículos**
+**Las Mujeres y su Rol en la gestión del Desarrollo Sustentable en Poblaciones Rurales, Marcelina Noriega, Una Historia de Éxito**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d734c64b-bc76-4c42-a2f9-945722fb23f4.jpg)
 
-**Exhibición y Taller sobre Productos de Montaña**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3cfd889-ea3d-4a72-a478-0a39dda8b9aa.jpg)
+La Sra.Marcelina Noriega, reside de la provincia de Darién, tiene seis hijos, 3 mujeres y 3 varones, es un ejemplo de que la capacitación y formación son vitales para mejorar la calidad de vida de las personas en poblaciones rurales. La Sra. Marcelina quien recientemente fue distinguida por Instituto Nacional de la Mujer de Panamá, en el marco del foro "Empoderamiento Económico y Liderazgo de las Mujeres Rurales", por su trabajo ambientalmente responsable con el cual le da el sustento a su familia.
 
-Las poblaciones de montaña, que gran parte están conformada por agricultores familiares, basan sus medios de subsistencia en actividades productivas diversificadas. Ellos han desarrollado sistemas únicos, resilientes y sostenible adoptados a sus ambientes locales que favorecen la producción de productos y servicios de montaña. Para respaldar estas actividades, la Secretaria de las Alianza para las Montañas, en conjunto con pequeño productores de montañas de todo el mundo han organizado una exhibición de productos de montaña y un taller para el intercambio de buenas prácticas los días 17, 18 y 19 de Diciembre en Nueva Delhi, India en la que participo Fundación CoMunidad, el marco del proyecto "Montañas y cambio climático" financiado por el Gobierno de Italia.
+En el caso de la Sra. Marcelina ha estado utilizando recursos naturales a su alcance (árboles y plantas),transformándolos en productos terminados para generar ingresos económicos. Ella forma parte de un grupo en Santa Fe, Darién que se dedica a producir jabones, cremas y té secos. Este grupo cuenta con una variedad con nueves especies de planta para elabora jabones, tres clases de cremas y seis tipos de té secos. El proceso para este emprendimiento inicia con el cultivo de las plantas y los árboles,utilizando métodos de agricultura orgánicos y conocimientos tradicionales,en el grupo al que pertenece la Sra. Marcelina la prioridad es de integrar mujeres de la región de Darién, en este tipo de actividades productivas.
 
-El aprovechamiento comercial y sostenible de productos y servicios de alta calidad representa una oportunidad importante para los asentamientos humanos de montaña para mejorar sus medios de vida generando empleo e ingresos adicionales. Particularmente, a las mujeres de montaña, que son relegadas a trabajar en las granjas y en los hogares mientras los hombres emigran a las tierras bajas o al extranjero en busca de un mayor salario, pueden aumentar sus ingresos a través del comercio de productos de montaña de calidad.
+Marcelina Noriega está al frente de su hogar y cultiva la tierra,apoya otros grupos en Darién, en temas de maltrato hacia la mujer y la juventud.En febrero de 2012, participo en una actividad del Día Internacional de La Mujer,en la sede de la Naciones Unidas en New York, en donde tuvo la oportunidad de compartir experiencias con mujeres de otras partes del mundo y pudo dar a conocer la realidad que viven en Darién y el trabajo que llevan a cabo.
 
-La actividad también fue una oportunidad para celebrar en el marco del Día Internacional de la Montaña, cuyo enfoque este año es en la promoción de productos de montaña como una estrategia para impulsar las economías de montaña.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5aa2b3a-6de3-4762-b226-06be0140285a.jpg)
+Marcelina mencionó que hay muchas mujeres con mucha capacidad para desarrollar emprendimientos,pero que en algunos momentos dudan por lo que la demás personas podrían pensar de ellas. Ejemplos como el de la Sra. Marcelina son dignos de resaltar, para que otros puedan apoyar este tipo de iniciativa y les den entusiasmo a las personas de los asentamientos rurales para que puedan desarrollar un medio de vida sostenible y mejorar la calidad de vida para sus familias.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0c262ac5-69b9-4c5e-8e15-6abf122f93a2.jpg)
