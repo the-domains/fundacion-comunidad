@@ -4,9 +4,9 @@ hasPage: true
 inNav: true
 inLanguage: null
 keywords: []
-description: 'Proyectos '
-datePublished: '2016-04-28T18:20:32.724Z'
-dateModified: '2016-04-28T18:19:49.856Z'
+description: Proyectos
+datePublished: '2016-04-28T18:27:09.027Z'
+dateModified: '2016-04-28T18:27:08.442Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -22,22 +22,19 @@ url: proyectos/index.html
 _type: WebPage
 
 ---
-**Proyectos **
+Proyectos
 
-**Edu -- Change**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9054e5ee-445d-4f16-a0dd-caf6451280bb.jpg)
+**Corto- Documental: "La Gota Más Importante "**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3cbd62-624a-456c-8c7a-8e901ec559de.jpg)
 
-Este proyecto está dirigido a tres municipios de Panamá: Arraijan, Chorrera y San Miguelito, localidades ubicadas en periferia de la Ciudad de Panamá, donde hay un crecimiento poblacional, falta de planificación y un incremento en actos de violencia. Esta iniciativa busca capacitar y brindarles herramientas a los jóvenes a través de talleres en diferentes ejes temáticos:
+El mezclar experiencias comunes de personas que viven en Panamá con las perspectivas de expertos que hablan sobre temas que incluyen aumento del nivel del mar, la eficiencia energética y la importancia de votar. Los realizadores muestran cómo todos tenemos la capacidad de realizar cambios en nuestra vida diaria para combatir el cambio climático.
 
-Emprendimiento
-
-Formación del Idioma Ingles
-
-Talleres de Audiovisuales
-
-Talleres de Arte, Hip Hop y Teatro
-
-Talleres de Radio
+El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9ec23c-3f4e-4b97-82f4-0ae0b5f7f2aa.jpg)
 
   
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44fdc405-a2ac-4dab-a7b8-4fabdffecdd1.jpg)
+Drindod Studios
+
+[www.facebook.com/drindod/][0]
+
+[0]: https://www.facebook.com/drindod/
