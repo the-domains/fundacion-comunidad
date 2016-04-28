@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Proyectos
-datePublished: '2016-04-28T18:27:09.027Z'
-dateModified: '2016-04-28T18:27:08.442Z'
+datePublished: '2016-04-28T20:53:20.012Z'
+dateModified: '2016-04-28T20:53:10.881Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -24,17 +24,14 @@ _type: WebPage
 ---
 Proyectos
 
-**Corto- Documental: "La Gota Más Importante "**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3cbd62-624a-456c-8c7a-8e901ec559de.jpg)
+**Educación para el Desarrollo Sostenible EDS / Centro de Acceso a las Tecnologías / Urbanos**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c211ef75-d366-4257-b784-7275020f2d86.jpg)
 
-El mezclar experiencias comunes de personas que viven en Panamá con las perspectivas de expertos que hablan sobre temas que incluyen aumento del nivel del mar, la eficiencia energética y la importancia de votar. Los realizadores muestran cómo todos tenemos la capacidad de realizar cambios en nuestra vida diaria para combatir el cambio climático.
+El municipio de San Miguelito, nace como un asentamiento humano donde sus primeros pobladores fueron familias que emigraron desde la península de Azuero y del archipiélago de las perlas, llegaron de otros sitios del Panamá, buscando un lugar donde establecerse y viviendas que estuviera cerca de los trabajos en la ciudad de panamá.
 
-El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9ec23c-3f4e-4b97-82f4-0ae0b5f7f2aa.jpg)
+San Miguelito, es el municipio más joven y más pequeño de Panamá, pero a la vez es uno de los más poblados del país, superior a los 300,000 habitantes donde se estima que viven más 6,000 personas por kilómetro cuadrado.
 
-  
-Drindod Studios
+El proyecto del Centro de Acceso a las tecnologías tiene como objetivo, generar un espacio local de formación y enseñanza en medio del crecimiento urbano y la desigualdad social una infraestructura para el mejoramiento de la educación en aéreas prioritarios a la cultura, la ciencia y el uso de tecnología de información abierta para todo los habitantes del municipio de San Miguelito, dentro de sus facilidades disponibles ofrece:
 
-[www.facebook.com/drindod/][0]
-
-[0]: https://www.facebook.com/drindod/
+Computadoras | Salón de conferencias | Cocina | Baños | Servicios de fotocopiado
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d1ccec-55e9-401d-ac7f-76652df0f94d.png)
