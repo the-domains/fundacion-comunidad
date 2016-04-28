@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Simposio sobre Economía de Montaña
-datePublished: '2016-04-28T13:19:05.446Z'
-dateModified: '2016-04-28T13:18:29.035Z'
+datePublished: '2016-04-28T13:26:13.835Z'
+dateModified: '2016-04-28T13:25:59.538Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-articulos.md
@@ -34,4 +34,4 @@ La construcción sobre los conocimientos tradicionales
 Integrar a las autoridades de los gobiernos locales
 
 Involucrar a los asentamientos humanos locales en los procesos de toma de desiciónes
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b944ba5-2144-4e6d-81c0-7f42cef39482.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f16e7e4-71d4-427b-8301-13f8b00f9779.jpg)
