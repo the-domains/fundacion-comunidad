@@ -1,12 +1,12 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: Proyectos
-datePublished: '2016-04-28T21:00:24.869Z'
-dateModified: '2016-04-28T21:00:11.885Z'
+datePublished: '2016-04-29T23:03:13.106Z'
+dateModified: '2016-04-28T20:51:48.545Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-18-proyectos.md
@@ -19,23 +19,14 @@ publisher:
   favicon: null
 starred: false
 url: proyectos/index.html
-_type: WebPage
+_type: Article
 
 ---
 Proyectos
 
-**Corto- Documental: "La Gota Más Importante "**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3d3cbd62-624a-456c-8c7a-8e901ec559de.jpg)
+**Aprovechamiento para el uso del bambú / Rural**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/356b2a8d-3c65-42f6-a54c-6bc6eac79673.jpg)
 
-El mezclar experiencias comunes de personas que viven en Panamá con las perspectivas de expertos que hablan sobre temas que incluyen aumento del nivel del mar, la eficiencia energética y la importancia de votar. Los realizadores muestran cómo todos tenemos la capacidad de realizar cambios en nuestra vida diaria para combatir el cambio climático.
+La población de Santa Fé es uno de los lugares más poblados dentro de la provincia de Darién, donde el hombre ha ejercido una gran presión sobre los recurso naturales donde es una prioritario generar una alternativa de los bosques o las maderas tropicales.
 
-El corto hace que la complejidad de la cuestión: el cambio climático es un fenómeno que puede tener consecuencias negativas y positivas, pero en el balance de costos y beneficios que los seres humanos son los que más pierden. El mensaje es claro y directo desde el título: cada uno de nosotros puede hacer algo para detener el cambio climático y las elecciones de los individuos pueden ser importantes.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db9ec23c-3f4e-4b97-82f4-0ae0b5f7f2aa.jpg)
-
-Coproducción:
-
-Drindod Studios
-
-[www.facebook.com/drindod/][0]
-
-[0]: https://www.facebook.com/drindod/
+Las características en la selección de una especie de bambú que cuente con los requerimientos de proveer bienes y servicios para garantizan parte de las grandes necesidades de vivienda y productos industriales, así como de otros usos agropecuarios y artesanales.Nos brindan servicios para la recuperación de suelos, evitar la erosión y, es un recursos renovable con gran capacidad de regeneración, son un eje fundamental como barrera naturales para evitar las inundaciones o prevenir deslizamientos de tierra en orillas de ríos.
