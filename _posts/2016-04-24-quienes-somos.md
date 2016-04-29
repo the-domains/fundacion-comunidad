@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Acerca de Fundación CoMunidad
-datePublished: '2016-04-29T22:39:04.656Z'
-dateModified: '2016-04-29T21:52:44.553Z'
+datePublished: '2016-04-29T22:56:46.960Z'
+dateModified: '2016-04-29T22:56:40.252Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-quienes-somos.md
@@ -22,7 +22,7 @@ url: quienes-somos/index.html
 _type: WebPage
 
 ---
-Quiénes Somos
+# Quiénes Somos
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/64232f39-b386-425d-83d3-64ee8d654cf4.jpg)
 
 Acerca de Fundación CoMunidad
