@@ -6,8 +6,8 @@ isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: Fundación CoMunidad
-datePublished: '2016-04-28T19:26:44.492Z'
-dateModified: '2016-04-28T19:26:06.734Z'
+datePublished: '2016-04-29T11:23:21.316Z'
+dateModified: '2016-04-29T11:23:05.241Z'
 title: ''
 author:
   - name: ''
