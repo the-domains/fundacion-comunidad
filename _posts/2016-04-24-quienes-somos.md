@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Acerca de Fundación CoMunidad
-datePublished: '2016-04-29T18:17:44.876Z'
-dateModified: '2016-04-29T18:05:37.381Z'
+datePublished: '2016-04-29T19:16:00.296Z'
+dateModified: '2016-04-29T19:15:07.112Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-quienes-somos.md
