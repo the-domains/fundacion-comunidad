@@ -1,20 +1,4 @@
-name: Fundación CoMunidad
-favicon: null
-layout_spectrum: 0.4991
 typography_spectrum: 0.50812
-title: Fundación CoMunidad
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,25 @@ color:
   lightness: 0.5
   saturation: 0.625
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.4991
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Alberto Pascual
+  email: apascual@mail.com
+  url: www.fcomunidad.org
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/756ac1fc-e5e3-4d65-a3ae-474304fbbcd7.jpg'
+name: Fundación CoMunidad
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e3ab070-d9df-4619-a62a-e4eab7327301.jpg'
+title: Fundación CoMunidad
 purpose: []
