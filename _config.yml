@@ -1,6 +1,6 @@
 name: Fundación CoMunidad
 favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e3ab070-d9df-4619-a62a-e4eab7327301.jpg'
-layout_spectrum: 0.4991
+layout_spectrum: 0.814586628228426
 typography_spectrum: 0.50812
 author:
   name: Fundación CoMunidad
@@ -22,13 +22,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#643706'
-    - '#00a9df'
-    - '#f7b400'
-    - '#cc0610'
-    - '#000000'
-  brandStrength: 0.0625
-  lightness: 0.5
-  saturation: 0.625
-  rhythmicContrast: 0.5
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
+  brandStrength: 0.8257000397425145
+  lightness: 0.5744137519504875
+  saturation: 0.6926245789509267
+  rhythmicContrast: 0.9468733204994351
 purpose: []
