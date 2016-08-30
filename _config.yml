@@ -1,12 +1,25 @@
+layout_spectrum: 0.07805159012787044
+typography_spectrum: 0.40217614406719804
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#a80402'
+    - '#a5a5a5'
+    - '#f3dcdb'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 1
+  rhythmicContrast: 0
 name: Fundación CoMunidad
-favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e3ab070-d9df-4619-a62a-e4eab7327301.jpg'
-layout_spectrum: 0.49901
-typography_spectrum: 0.50812
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e3ab070-d9df-4619-a62a-e4eab7327301.jpg
 author:
   name: Fundación CoMunidad
   email: f.comunidad@mail.com
   url: www.fcomunidad.org
-logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/756ac1fc-e5e3-4d65-a3ae-474304fbbcd7.jpg'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/756ac1fc-e5e3-4d65-a3ae-474304fbbcd7.jpg
 title: Fundación CoMunidad
 cta:
   domain: null
@@ -20,15 +33,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#a80402'
-    - '#a5a5a5'
-    - '#f3dcdb'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 1
-  rhythmicContrast: 0
 purpose: []
