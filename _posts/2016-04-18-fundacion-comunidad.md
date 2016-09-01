@@ -1,28 +1,32 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: 'La Fundación CoMunidad es una organización no gubernamental sin fines de lucro que fue constituída en el año 2007, en Ciudad de Panamá, República de Panamá.'
-datePublished: '2016-04-28T14:04:14.435Z'
-dateModified: '2016-04-28T14:03:53.308Z'
-title: ''
-author: []
+datePublished: '2016-08-29T21:02:49.650Z'
 sourcePath: _posts/2016-04-18-fundacion-comunidad.md
-published: true
+inFeed: true
 authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-08-29T21:02:49.270Z'
+title: ''
 publisher:
-  name: null
+  name: ''
   domain: null
-  url: null
+  url: ''
   favicon: null
+description: >-
+  La Fundación CoMunidad es una organización no gubernamental sin fines de lucro
+  que fue constituída en el año 2007, en Ciudad de Panamá, República de Panamá.
+inLanguage: null
+inNav: false
+via: {}
 starred: false
 url: fundacion-comunidad/index.html
 _type: Article
 
 ---
-![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/05c826a6f2482f44b1d257461e8bfe44/passthrough.jpg?height=499&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2F521a7ff9af7c2087f99c04c16644129c94f38be0.jpg&width=750)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/521a7ff9af7c2087f99c04c16644129c94f38be0.jpg)
 
 La Fundación CoMunidad es una organización no gubernamental sin fines de lucro que fue constituída en el año 2007, en Ciudad de Panamá, República de Panamá.
 
