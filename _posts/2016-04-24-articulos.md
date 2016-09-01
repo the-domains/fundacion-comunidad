@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T21:32:36.568Z'
+datePublished: '2016-08-29T21:34:29.005Z'
 sourcePath: _posts/2016-04-24-articulos.md
 inFeed: false
 authors: []
@@ -7,10 +7,10 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-29T21:32:35.699Z'
+dateModified: '2016-08-29T21:34:28.488Z'
 title: ''
 publisher: {}
-description: Exhibición y Taller sobre Productos de Montaña
+description: 4th Global Meeting of Mountain Partnership
 inLanguage: null
 inNav: true
 starred: false
@@ -18,12 +18,12 @@ url: articulos/index.html
 _type: WebPage
 
 ---
-**Exhibición y Taller sobre Productos de Montaña**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e3cfd889-ea3d-4a72-a478-0a39dda8b9aa.jpg)
+**4th Global Meeting of Mountain Partnership**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67748bd1-fcf0-4430-8e51-c3314013ffa8.jpg)
 
-Las poblaciones de montaña, que gran parte están conformada por agricultores familiares, basan sus medios de subsistencia en actividades productivas diversificadas. Ellos han desarrollado sistemas únicos, resilientes y sostenible adoptados a sus ambientes locales que favorecen la producción de productos y servicios de montaña. Para respaldar estas actividades, la Secretaria de las Alianza para las Montañas, en conjunto con pequeño productores de montañas de todo el mundo han organizado una exhibición de productos de montaña y un taller para el intercambio de buenas prácticas los días 17, 18 y 19 de Diciembre en Nueva Delhi, India en la que participo Fundación CoMunidad, el marco del proyecto "Montañas y cambio climático" financiado por el Gobierno de Italia.
+La Fundación CoMunidad, participo en la reunión que se desarrolló en Erzurum, Turquía los días 17, 18 y 19 Octubre de 2013, la agenda de trabajo fue la nuevo Estrategia de Alianza para las Montañas y Gobernanza; montañas en Río +20 y el Desarrollo Sostenible Post- 2015 Objetivos (ODS), la Plataforma de Conocimiento del Foro de Montañas para desarrollo sostenible de las montañas, la coordinación regional de mecanismos, y la selección del Comité de Dirección. Grupos de trabajo temáticos para la planificación y la gestión de Mountain Partnership. Reuniones regionales paralelas, presentaciones en la Feria y eventos paralelos también se llevó a cabo La reunión congregó a aproximadamente cien participantes en representación de, entre otras cosas, los gobiernos, el mundo académico, instituciones de investigación, las organizaciones intergubernamentales y la sociedad civil.
 
-El aprovechamiento comercial y sostenible de productos y servicios de alta calidad representa una oportunidad importante para los asentamientos humanos de montaña para mejorar sus medios de vida generando empleo e ingresos adicionales. Particularmente, a las mujeres de montaña, que son relegadas a trabajar en las granjas y en los hogares mientras los hombres emigran a las tierras bajas o al extranjero en busca de un mayor salario, pueden aumentar sus ingresos a través del comercio de productos de montaña de calidad.
+La aprobación de la nueva Estrategia de Mountain Partnership y Gobernanza, la selección de los miembros del Comité Directivo fueron recibidas como una oportunidad para reorientar la colaboración entre la alianza, mejorar sus actividades y programas. Sin embargo, muchos representantes se refirieron a la labor futura la obligación de pedirle la importancia de las montañas consideradas en un contexto internacional más amplio.
 
-La actividad también fue una oportunidad para celebrar en el marco del Día Internacional de la Montaña, cuyo enfoque este año es en la promoción de productos de montaña como una estrategia para impulsar las economías de montaña.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5aa2b3a-6de3-4762-b226-06be0140285a.jpg)
+Los participantes, hacen hincapié en nuestra voluntad de trabajar en conjunto para cumplir con su visión para conservar los ambientes de montaña, y mejorar los medios de vida de las poblaciones de montaña y al mismo tiempo empoderando a sus habitantes.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e9d781c-a72f-4962-8a43-eb4d99f2ae05.jpg)
