@@ -1,28 +1,29 @@
 ---
-datePublished: '2016-08-29T21:14:27.379Z'
+datePublished: '2016-08-29T21:15:40.570Z'
 sourcePath: _posts/2016-04-18-proyectos.md
-inFeed: true
+inFeed: false
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-29T21:14:26.562Z'
+dateModified: '2016-08-29T21:15:39.791Z'
 title: ''
 publisher: {}
 description: Proyectos
 inLanguage: null
-inNav: false
+inNav: true
 starred: false
 url: proyectos/index.html
-_type: Article
+_type: WebPage
 
 ---
 Proyectos
 
-**Aprovechamiento para el uso del bambú / Rural**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb02c4ab5a6bf479003c2ffbea08c1583df15227.jpg)
+**Educación para el Desarrollo Sostenible EDS / Talleres sobre Tecnologías de Información y Comunicación / Urbanos**.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fcaa110a-36f2-4a6e-b539-c30a30e6e954.jpg)
 
-La población de Santa Fé es uno de los lugares más poblados dentro de la provincia de Darién, donde el hombre ha ejercido una gran presión sobre los recurso naturales donde es una prioritario generar una alternativa de los bosques o las maderas tropicales.
+Este proyecto se trabaja con jóvenes de tres municipios: Chorrera, Arraiján y San Miguelito, donde se capacitan en producción de radio, producción de televisión y radios en línea, con esto se empoderan así mismo la posibilidad de generar nuevos emprendimientos que les permitan contar con mayores y mejores oportunidad de laborales. Esta visión de la educación es para desarrollo de los conocimientos y habilidades, así como cambios en los valores, comportamientos y estilos de vida.
 
-Las características en la selección de una especie de bambú que cuente con los requerimientos de proveer bienes y servicios para garantizan parte de las grandes necesidades de vivienda y productos industriales, así como de otros usos agropecuarios y artesanales.Nos brindan servicios para la recuperación de suelos, evitar la erosión y, es un recursos renovable con gran capacidad de regeneración, son un eje fundamental como barrera naturales para evitar las inundaciones o prevenir deslizamientos de tierra en orillas de ríos.
+Un paso esencial en el camino hacia la educación de los ciudadanos a reconocer los problemas que enfrenta el mundo actual, así como las oportunidades para la innovación y el progreso,dándoles el poder de actuar con responsabilidad hacia el futuro. Las Tecnologías de Información y Comunicación son herramientas importantes para alcanzar un mayor número de alumnos, así como facilitar nuevos formas de aprendizaje y la comprensión que se requiere para implementar las soluciones complejas necesarias. La aceptación de los métodos pedagógicos innovadores abre nuevas posibilidades y grande retos para la Educación para el Desarrollo Sostenible.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e30c15b3-6085-48e6-a9cc-7a4457df14a2.jpg)
