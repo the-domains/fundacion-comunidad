@@ -1,25 +1,21 @@
 ---
+datePublished: '2016-08-29T21:01:32.899Z'
+sourcePath: _posts/2016-04-24-fundacion-comunidad.md
 inFeed: true
-hasPage: false
-inNav: false
 isBasedOnUrl: ''
-inLanguage: null
+authors: []
+hasPage: false
 keywords: []
-description: Fundación CoMunidad
-datePublished: '2016-04-29T11:23:21.316Z'
-dateModified: '2016-04-29T11:23:05.241Z'
-title: ''
 author:
   - name: ''
     url: ''
-sourcePath: _posts/2016-04-24-fundacion-comunidad.md
-published: true
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+via: {}
+dateModified: '2016-08-29T21:01:32.300Z'
+title: ''
+publisher: {}
+description: Fundación CoMunidad
+inLanguage: null
+inNav: false
 starred: true
 _type: Blurb
 
