@@ -1,33 +1,29 @@
 ---
-inFeed: false
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: Acerca de Fundación CoMunidad
-datePublished: '2016-04-30T08:48:40.587Z'
-dateModified: '2016-04-30T08:48:27.411Z'
-title: Quiénes Somos
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-starred: false
+datePublished: '2016-08-29T21:26:16.595Z'
 sourcePath: _posts/2016-04-30-quienes-somos.md
-published: true
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-29T21:26:15.886Z'
+title: Quiénes Somos
+publisher: {}
+description: Acerca de Fundación CoMunidad
+inLanguage: null
+inNav: true
+via: {}
+starred: false
 url: quienes-somos/index.html
 _type: WebPage
 
 ---
 ## Quiénes Somos
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57002519-88e8-442f-897d-7079f756582b.jpg)
 
 Acerca de Fundación CoMunidad
 
 La Fundación CoMunidad es una organización no gubernamental sin fines de lucro que fue constituída en el año 2007, en Ciudad de Panamá, República de Panamá.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c770be20c56c609896d3277c56e108fd17448e4b.jpg)
 
 Es una idea colectiva para la cooperación que fue concebida como un planteamiento para la gestión del desarrollo sustentable con un enfoque transversal e interdisciplinario.
 
