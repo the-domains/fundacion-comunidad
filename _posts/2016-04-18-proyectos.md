@@ -1,18 +1,18 @@
 ---
-inFeed: false
-hasPage: true
-inNav: false
-inLanguage: null
-keywords: []
-description: Proyectos
-datePublished: '2016-08-30T20:34:59.916Z'
-dateModified: '2016-08-30T20:34:51.643Z'
+datePublished: '2016-08-31T09:38:24.805Z'
 sourcePath: _posts/2016-04-18-proyectos.md
+inFeed: false
+authors: []
+hasPage: true
+keywords: []
 author: []
 via: {}
+dateModified: '2016-08-31T09:38:24.348Z'
 title: ''
-authors: []
 publisher: {}
+description: Proyectos
+inLanguage: null
+inNav: false
 starred: false
 url: proyectos/index.html
 _type: Blurb
