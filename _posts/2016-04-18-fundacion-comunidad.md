@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-29T21:02:49.650Z'
+datePublished: '2016-08-31T10:19:00.144Z'
 sourcePath: _posts/2016-04-18-fundacion-comunidad.md
 inFeed: true
 authors: []
@@ -8,19 +8,15 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-29T21:02:49.270Z'
+via: {}
+dateModified: '2016-08-31T10:18:59.742Z'
 title: ''
-publisher:
-  name: ''
-  domain: null
-  url: ''
-  favicon: null
+publisher: {}
 description: >-
   La Fundación CoMunidad es una organización no gubernamental sin fines de lucro
   que fue constituída en el año 2007, en Ciudad de Panamá, República de Panamá.
 inLanguage: null
 inNav: false
-via: {}
 starred: false
 url: fundacion-comunidad/index.html
 _type: Article
