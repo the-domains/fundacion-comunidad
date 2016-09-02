@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
 description: Proyectos
-datePublished: '2016-08-30T20:28:57.643Z'
-dateModified: '2016-08-30T20:25:01.370Z'
+datePublished: '2016-08-30T20:34:59.916Z'
+dateModified: '2016-08-30T20:34:51.643Z'
 sourcePath: _posts/2016-04-18-proyectos.md
 author: []
 via: {}
@@ -15,7 +15,7 @@ authors: []
 publisher: {}
 starred: false
 url: proyectos/index.html
-_type: Article
+_type: Blurb
 
 ---
 Proyectos
