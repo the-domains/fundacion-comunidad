@@ -1,33 +1,28 @@
 ---
-datePublished: '2016-08-29T21:17:23.213Z'
-sourcePath: _posts/2016-04-18-proyectos.md
-inFeed: false
-authors: []
+inFeed: true
 hasPage: true
+inNav: false
+inLanguage: null
 keywords: []
+description: Proyectos
+datePublished: '2016-08-30T20:28:57.643Z'
+dateModified: '2016-08-30T20:25:01.370Z'
+sourcePath: _posts/2016-04-18-proyectos.md
 author: []
 via: {}
-dateModified: '2016-08-29T21:17:22.451Z'
 title: ''
+authors: []
 publisher: {}
-description: Proyectos
-inLanguage: null
-inNav: true
 starred: false
 url: proyectos/index.html
-_type: WebPage
+_type: Article
 
 ---
 Proyectos
 
-**Educación para el Desarrollo Sostenible EDS / Centro de Acceso a las Tecnologías / Urbanos**
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab1042831813d9728b8efab444f9fcdb4b2716f.jpg)
+**Aprovechamiento para el uso del bambú / Rural**
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fb02c4ab5a6bf479003c2ffbea08c1583df15227.jpg)
 
-El municipio de San Miguelito, nace como un asentamiento humano donde sus primeros pobladores fueron familias que emigraron desde la península de Azuero y del archipiélago de las perlas, llegaron de otros sitios del Panamá, buscando un lugar donde establecerse y viviendas que estuviera cerca de los trabajos en la ciudad de panamá.
+La población de Santa Fé es uno de los lugares más poblados dentro de la provincia de Darién, donde el hombre ha ejercido una gran presión sobre los recurso naturales donde es una prioritario generar una alternativa de los bosques o las maderas tropicales.
 
-San Miguelito, es el municipio más joven y más pequeño de Panamá, pero a la vez es uno de los más poblados del país, superior a los 300,000 habitantes donde se estima que viven más 6,000 personas por kilómetro cuadrado.
-
-El proyecto del Centro de Acceso a las tecnologías tiene como objetivo, generar un espacio local de formación y enseñanza en medio del crecimiento urbano y la desigualdad social una infraestructura para el mejoramiento de la educación en aéreas prioritarios a la cultura, la ciencia y el uso de tecnología de información abierta para todo los habitantes del municipio de San Miguelito, dentro de sus facilidades disponibles ofrece:
-
-Computadoras | Salón de conferencias | Cocina | Baños | Servicios de fotocopiado
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4d1ccec-55e9-401d-ac7f-76652df0f94d.png)
+Las características en la selección de una especie de bambú que cuente con los requerimientos de proveer bienes y servicios para garantizan parte de las grandes necesidades de vivienda y productos industriales, así como de otros usos agropecuarios y artesanales.Nos brindan servicios para la recuperación de suelos, evitar la erosión y, es un recursos renovable con gran capacidad de regeneración, son un eje fundamental como barrera naturales para evitar las inundaciones o prevenir deslizamientos de tierra en orillas de ríos.
